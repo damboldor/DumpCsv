@@ -5,12 +5,10 @@ Wiki: https://github.com/damboldor/DumpCsv/wiki/Как-этим-пользова
 
 Пример небольшого файла:
 
-`
-from sfe import *
+`from sfe import *`
 
-load('Player.csv')
-Write('Harry', 13)
-Read()
-print(ListDb) # [['Harry', 13]]
+`load('Player.csv')`
+`Write('Harry', 13)`
+`Read()`
+`print(ListDb) # [['Harry', 13]]`
 
-`
