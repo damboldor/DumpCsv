@@ -4,5 +4,5 @@
 
 Wiki: https://github.com/damboldor/DumpCsv/wiki/Как-этим-пользоваться%3F.
 
-Пример небольшого файла: https://github.com/damboldor/DumpCsv/blob/master/Program.
+Пример небольшого файла: https://github.com/damboldor/DumpCsv/blob/master/Program.py.
 
