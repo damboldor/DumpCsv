@@ -1,4 +1,4 @@
 # Помойка.
 Небольшой модуль для лёгкого взаимодействия с файлами .csv.
 
-Wiki: https://goo-gl.ru/5imR.
+Wiki: https://github.com/damboldor/DumpCsv/wiki/Как-этим-пользоваться%3F.
