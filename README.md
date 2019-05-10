@@ -8,7 +8,10 @@ Wiki: https://github.com/damboldor/DumpCsv/wiki/Как-этим-пользова
 `from sfe import *`
 
 `load('Player.csv')`
+
 `Write('Harry', 13)`
+
 `Read()`
+
 `print(ListDb) # [['Harry', 13]]`
 
